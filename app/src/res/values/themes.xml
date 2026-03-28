@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.SmsScheduler" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <!-- اللون الأساسي يمكنك تغييره لاحقًا -->
+    <style name="Theme.SmsScheduler" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@android:color/holo_blue_dark</item>
         <item name="colorPrimaryVariant">@android:color/holo_blue_light</item>
         <item name="colorOnPrimary">@android:color/white</item>
